@@ -1,0 +1,18 @@
+.toolbar-height {
+    height: 80px;
+}
+
+.content-center{
+    width: 100%;
+}
+
+.image-position {
+   display: block;
+}
+
+.image-size{
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 80px;
+}
