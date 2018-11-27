@@ -1,0 +1,9 @@
+
+.width-mat-tab {
+    width: 50%;
+    background-color: #7647A2;
+}
+
+.width-mat-tab::selection{
+    background-color: #6c0fc4;
+}
